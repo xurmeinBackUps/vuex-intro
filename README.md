@@ -1,6 +1,6 @@
 # shopping-cart-vuex
 
-> f/m 'Vuex for Everyone' course on vuschool.io
+> f/m 'Vuex for Everyone' course on vueschool.io
 
 ## Build Setup
 
