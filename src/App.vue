@@ -33,4 +33,8 @@ export default {
 .l-float {
   float: left;
 }
+
+.no-bullets {
+  list-style: none;
+}
 </style>
